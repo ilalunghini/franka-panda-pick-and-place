@@ -1,0 +1,16 @@
+# Python environments and generated files
+.venv/
+__pycache__/
+*.py[cod]
+
+# Operating-system files
+.DS_Store
+
+# Large, optional demonstration media
+*.MOV
+*.mov
+*.MP4
+*.mp4
+
+# Local CoppeliaSim scenes are not cleared for redistribution
+*.ttt
